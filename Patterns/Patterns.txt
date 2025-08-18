@@ -2,5 +2,3 @@
 string(size_t n, char c) Constructor in C++
 Useful when you want to quickly create a repeated character sequence (like star patterns, dashes, or padding).
 Reduces the need for loops, making code cleaner and faster for pattern printing.
-
-2.
